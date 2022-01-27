@@ -1,7 +1,6 @@
 VegaLearningGit
 
 1. Ini adalah Git Pertama Vega
-2. Saya ingin saya konsisten dalam memahami di bidang data
 3. Belajar Setiap Hari Satu Jam
 4. Membuat dua project dalam satu bulan
 5. Kolaborasi dengan banyak Expert
